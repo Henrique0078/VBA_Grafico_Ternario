@@ -1,0 +1,1694 @@
+Else
+        End If
+        If PontosVal > 12 Then
+            With .SeriesCollection(47)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "13"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 13 Then
+            With .SeriesCollection(48)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "14"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 14 Then
+            With .SeriesCollection(49)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "15"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 15 Then
+            With .SeriesCollection(50)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "16"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 16 Then
+            With .SeriesCollection(51)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "17"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 17 Then
+            With .SeriesCollection(52)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "18"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 18 Then
+            With .SeriesCollection(53)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "19"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 19 Then
+            With .SeriesCollection(54)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "20"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 20 Then
+            With .SeriesCollection(55)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "21"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 21 Then
+            With .SeriesCollection(56)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "22"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 22 Then
+            With .SeriesCollection(57)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "23"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 23 Then
+            With .SeriesCollection(58)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "24"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 24 Then
+            With .SeriesCollection(59)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "25"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 25 Then
+            With .SeriesCollection(60)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "26"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 26 Then
+            With .SeriesCollection(61)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "27"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 27 Then
+            With .SeriesCollection(62)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "28"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 28 Then
+            With .SeriesCollection(63)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "29"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 29 Then
+            With .SeriesCollection(64)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "30"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 30 Then
+            With .SeriesCollection(65)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "31"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 31 Then
+            With .SeriesCollection(66)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "32"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 32 Then
+            With .SeriesCollection(67)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "33"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 33 Then
+            With .SeriesCollection(68)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "34"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 34 Then
+            With .SeriesCollection(69)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "35"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 35 Then
+            With .SeriesCollection(70)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "36"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 36 Then
+            With .SeriesCollection(71)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "37"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 37 Then
+            With .SeriesCollection(72)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "38"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 38 Then
+            With .SeriesCollection(73)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "39"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 39 Then
+            With .SeriesCollection(74)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "40"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 40 Then
+            With .SeriesCollection(75)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "41"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 41 Then
+            With .SeriesCollection(76)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "42"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 42 Then
+            With .SeriesCollection(77)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "43"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 43 Then
+            With .SeriesCollection(78)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "44"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 44 Then
+            With .SeriesCollection(79)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "45"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 45 Then
+            With .SeriesCollection(80)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "46"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 46 Then
+            With .SeriesCollection(81)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "47"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 47 Then
+            With .SeriesCollection(82)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "48"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 48 Then
+            With .SeriesCollection(83)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "49"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 49 Then
+            With .SeriesCollection(84)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "50"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 50 Then
+            With .SeriesCollection(85)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "51"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 51 Then
+            With .SeriesCollection(86)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "52"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 52 Then
+            With .SeriesCollection(87)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "53"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 53 Then
+            With .SeriesCollection(88)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "54"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 54 Then
+            With .SeriesCollection(89)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "55"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 55 Then
+            With .SeriesCollection(90)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "56"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 56 Then
+            With .SeriesCollection(91)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "57"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 57 Then
+            With .SeriesCollection(92)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "58"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 58 Then
+            With .SeriesCollection(93)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "59"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 59 Then
+            With .SeriesCollection(94)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "60"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 60 Then
+            With .SeriesCollection(95)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "61"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 61 Then
+            With .SeriesCollection(96)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "62"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 62 Then
+            With .SeriesCollection(97)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "63"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 63 Then
+            With .SeriesCollection(98)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "64"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 64 Then
+            With .SeriesCollection(99)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "65"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 65 Then
+            With .SeriesCollection(100)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "66"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 66 Then
+            With .SeriesCollection(101)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "67"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 67 Then
+            With .SeriesCollection(103)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "68"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 68 Then
+            With .SeriesCollection(104)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "69"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 69 Then
+            With .SeriesCollection(105)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "70"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 70 Then
+            With .SeriesCollection(106)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "71"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 71 Then
+            With .SeriesCollection(107)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "72"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 72 Then
+            With .SeriesCollection(108)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "73"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 73 Then
+            With .SeriesCollection(109)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "74"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 74 Then
+            With .SeriesCollection(110)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "75"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 75 Then
+            With .SeriesCollection(111)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "76"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 76 Then
+            With .SeriesCollection(112)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "77"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 77 Then
+            With .SeriesCollection(113)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "78"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 78 Then
+            With .SeriesCollection(114)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "79"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 79 Then
+            With .SeriesCollection(115)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "80"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 80 Then
+            With .SeriesCollection(116)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "81"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 81 Then
+            With .SeriesCollection(117)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "82"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 82 Then
+            With .SeriesCollection(118)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "83"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 83 Then
+            With .SeriesCollection(119)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "84"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 84 Then
+            With .SeriesCollection(120)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "85"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 85 Then
+            With .SeriesCollection(121)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "86"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 86 Then
+            With .SeriesCollection(122)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "87"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 87 Then
+            With .SeriesCollection(123)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "88"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 88 Then
+            With .SeriesCollection(124)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "89"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 89 Then
+            With .SeriesCollection(125)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "90"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 90 Then
+            With .SeriesCollection(126)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "91"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 91 Then
+            With .SeriesCollection(127)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "92"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 92 Then
+            With .SeriesCollection(128)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "93"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 93 Then
+            With .SeriesCollection(129)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "94"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 94 Then
+            With .SeriesCollection(130)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "95"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 95 Then
+            With .SeriesCollection(131)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "96"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 96 Then
+            With .SeriesCollection(132)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "97"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 97 Then
+            With .SeriesCollection(133)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "98"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 98 Then
+            With .SeriesCollection(134)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "99"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 99 Then
+            With .SeriesCollection(135)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "100"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If
+        If PontosVal > 100 Then
+            With .SeriesCollection(136)
+                .MarkerSize = Worksheets("Diagrama").Range("BN35").Value2 * PROP + 6
+                .Points(1).HasDataLabel = True
+                .Points(1).DataLabel.Text = "101"
+                .Points(1).MarkerStyle = xlMarkerStyleCircle ' change the shape
+            End With
+        Else
+        End If

@@ -1,0 +1,114 @@
+Sub GeneratePrincipalPoints()
+Sheets(4).Select
+Dim I As Integer
+Dim p1 As String
+Dim p2 As String
+Dim p3 As Long
+
+
+With Worksheets(4)
+    For I = 1 To Sheets(4).Cells(1, 1)
+                                      'Entrada de Dados
+            Cells(5, 2 + (I - 1)) = (I & "-" & Sheets(2).Cells(2 + 5 * (I - 1), 2)) 'nome
+            Cells(6, 2 + (I - 1)) = Sheets(2).Cells(2 + 5 * (I - 1), 7) 'Renewable
+            Cells(7, 2 + (I - 1)) = Sheets(2).Cells(3 + 5 * (I - 1), 7) 'Non_renewable
+            Cells(8, 2 + (I - 1)) = Sheets(2).Cells(4 + 5 * (I - 1), 7) 'Purchased
+            Cells(9, 2 + (I - 1)) = Sheets(2).Cells(5 + 5 * (I - 1), 7) 'Total
+            
+            Cells(11, 2 + (I - 1)) = Cells(6, 2 + (I - 1)) / Cells(9, 2 + (I - 1)) '%renewable
+            Cells(12, 2 + (I - 1)) = Cells(7, 2 + (I - 1)) / Cells(9, 2 + (I - 1)) '%non-renewable
+            Cells(13, 2 + (I - 1)) = Cells(8, 2 + (I - 1)) / Cells(9, 2 + (I - 1)) '%purchased
+                                        'Resultados
+            Cells(15, 2 + (I - 1)) = Cells(6, 2 + (I - 1)) / Cells(9, 2 + (I - 1)) 'decimal %renewable
+            Cells(16, 2 + (I - 1)) = Cells(7, 2 + (I - 1)) / Cells(9, 2 + (I - 1)) 'decimal %non-renewable
+            Cells(17, 2 + (I - 1)) = Cells(8, 2 + (I - 1)) / Cells(9, 2 + (I - 1)) 'decimal %purchased
+            Cells(18, 2 + (I - 1)) = Cells(15, 2 + (I - 1)) + Cells(16, 2 + (I - 1)) 'I =>
+            Cells(19, 2 + (I - 1)) = Cells(15, 2 + (I - 1)) + Cells(16, 2 + (I - 1)) + Cells(17, 2 + (I - 1)) 'Y =>
+            Cells(20, 2 + (I - 1)) = 1 / Cells(17, 2 + (I - 1)) 'EYR
+            Cells(21, 2 + (I - 1)) = Cells(17, 2 + (I - 1)) / (1 - Cells(17, 2 + (I - 1))) 'EIR
+            Cells(22, 2 + (I - 1)) = (1 - Cells(15, 2 + (I - 1))) / Cells(15, 2 + (I - 1)) 'ELR
+            Cells(23, 2 + (I - 1)) = Cells(20, 2 + (I - 1)) / Cells(22, 2 + (I - 1)) 'SI
+            Cells(10, 2 + (I - 1)) = Cells(20, 2 + (I - 1)) / Cells(22, 2 + (I - 1)) 'SI
+                                'Pontos em Coordenadas Cartesianas
+            Cells(25, 2 + (I - 1)) = (I & "-" & Sheets(2).Cells(2 + 5 * (I - 1), 2)) 'nome
+            Cells(26, 2 + (I - 1)) = (2 * Cells(17, 2 + (I - 1)) + Cells(15, 2 + (I - 1)) - 1) / Sqr(3) 'X
+            atualizaY 'Y
+            
+        
+    Next I
+End With
+End Sub
+
+Sub LimpaPrincipalPoints()
+Dim I As Integer
+Sheets(4).Select
+With Worksheets(4)
+    For I = 1 To 200
+        Sheets(4).Range(Cells(5, 2 + (I - 1)), Cells(13, 2 + (I - 1))).ClearContents
+        Sheets(4).Range(Cells(15, 2 + (I - 1)), Cells(23, 2 + (I - 1))).ClearContents
+        Sheets(4).Range(Cells(25, 2 + (I - 1)), Cells(27, 2 + (I - 1))).ClearContents
+        
+    Next I
+End With
+End Sub
+
+Sub atualizaY()
+
+Dim I As Integer
+    For I = 1 To Sheets(4).Cells(1, 1)
+            If Sheets(1).Cells(37 + (I - 1), 8) Then
+                Sheets(4).Cells(27, 2 + (I - 1)) = Sheets(4).Cells(15, 2 + (I - 1))
+            Else
+                Sheets(4).Cells(27, 2 + (I - 1)) = "-1"
+            End If
+    Next I
+End Sub
+
+Sub simergyPoints()
+    
+    With Worksheets(4)
+        For I = 1 To Sheets(4).Cells(1, 1)
+            Sheets(4).Cells(113 + 3 * (I - 1), 3) = ("Simergy " & I)
+            If Sheets(1).Cells(239 + (I - 1), 8) Then 'X simergy
+                Sheets(4).Cells(113 + 3 * (I - 1), 5) = Sheets(4).Range("GL55").Value2
+            Else
+                Sheets(4).Cells(113 + 3 * (I - 1), 5) = "-1"
+            End If
+            
+            If Sheets(1).Cells(239 + (I - 1), 8) Then 'Y simergy
+                Sheets(4).Cells(114 + 3 * (I - 1), 5) = Sheets(4).Range("GL56").Value2
+            Else
+                Sheets(4).Cells(114 + 3 * (I - 1), 5) = "-1"
+            End If
+            
+            If Sheets(1).Cells(239 + (I - 1), 8) Then 'X Point
+                Sheets(4).Cells(113 + 3 * (I - 1), 14) = Sheets(4).Cells(26, 2 + (I - 1)).Value2
+            Else
+                Sheets(4).Cells(113 + 3 * (I - 1), 14) = "-1"
+            End If
+            
+            If Sheets(1).Cells(239 + (I - 1), 8) Then 'Y Point
+                Sheets(4).Cells(114 + 3 * (I - 1), 14) = Sheets(4).Cells(27, 2 + (I - 1)).Value2
+            Else
+                Sheets(4).Cells(114 + 3 * (I - 1), 14) = "-1"
+            End If
+            
+            For Z = 1 To 8
+                Sheets(4).Cells(113 + 3 * (I - 1), 6 + (Z - 1)) = (Sheets(4).Cells(113 + 3 * (I - 1), 5 + (Z - 1)).Value2 + (Sheets(4).Cells(113 + 3 * (I - 1), 14).Value2 - Sheets(4).Cells(113 + 3 * (I - 1), 5 + (Z - 1)).Value2) / (9 - (Z - 1)))
+                Sheets(4).Cells(114 + 3 * (I - 1), 6 + (Z - 1)) = (Sheets(4).Cells(114 + 3 * (I - 1), 5 + (Z - 1)).Value2 + (Sheets(4).Cells(114 + 3 * (I - 1), 14).Value2 - Sheets(4).Cells(114 + 3 * (I - 1), 5 + (Z - 1)).Value2) / (9 - (Z - 1)))
+            Next Z
+        Next I
+    End With
+    
+End Sub
+
+Sub limpaSimergyPoints()
+    With Worksheets(4)
+        For I = 1 To 200
+            For Z = 1 To 10
+                Sheets(4).Cells(113 + 3 * (I - 1), 5 + (Z - 1)).ClearContents
+                Sheets(4).Cells(114 + 3 * (I - 1), 5 + (Z - 1)).ClearContents
+            Next Z
+        Next I
+    End With
+End Sub
